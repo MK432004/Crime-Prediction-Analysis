@@ -1,0 +1,28 @@
+
+body {
+    background-image: url('../images/city_background.jpg');
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 50px;
+    min-height: 100vh;
+}
+
+.logo {
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+.slogan {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
